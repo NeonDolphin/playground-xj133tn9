@@ -22,7 +22,7 @@ int main(){
             std::cin >> steps;
             y++;
  }
- if(steps < 10){
+            if(steps < 10){
                   std::cout << "You encountered a spider!\n";
                   std::cout << ins1;
                   std::cin >> dmg;
